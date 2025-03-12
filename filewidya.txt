@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Branch 1
 =======
 Branch 2
@@ -11,3 +12,6 @@ Branch 3
 =======
 Branch 4
 >>>>>>> fourth
+=======
+Branch 5
+>>>>>>> main
