@@ -1,13 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Baris 1
-=======
 Baris 2 dari third branch
->>>>>>> third
-=======
 Baris 3 dari second branch
->>>>>>> second
-=======
 Bari 5 dari main branch
->>>>>>> main
+
